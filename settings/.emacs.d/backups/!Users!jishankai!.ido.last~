@@ -1,0 +1,45 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/jishankai/Projects/Miwu/Miwu/" . "Classes/")
+ ("/Users/jishankai/Projects/Miwu/" . "Miwu/")
+ ("/Users/jishankai/Projects/" . "Miwu/")
+ ("/Users/jishankai/" . "Projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/jishankai/Projects/Miwu/Miwu/Classes/"
+ "/Users/jishankai/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Menu.cpp"
+ "Menu.h"
+ "MenuLoader.cpp"
+ "MenuLoader.h"
+ "MainMenuScene.cpp"
+ "LevelLoader.h"
+ "LevelLoader.cpp"
+ "Level.h"
+ "GameScene.h"
+ "GameScene.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/jishankai/Projects/Miwu/Miwu/Classes/" (20914 3470) "ZombieLoader.h" "Zombie.h" "Zombie.cpp" "TortoiseLoader.h" "TortoiseLoader.cpp" "Tortoise.h" "Tortoise.cpp" "RhinocerosLoader.h" "RhinocerosLoader.cpp" "Rhinoceros.h" "Rhinoceros.cpp" "RatLoader.h" "RatLoader.cpp" "Rat.h" "Rat.cpp" "RabitLoader.h" "RabitLoader.cpp" "Rabit.h" "Rabit.cpp" "PenguinLoader.h" "PenguinLoader.cpp" "Penguin.h" "Penguin.cpp" "MonkeyLoader.h" "MonkeyLoader.cpp" "Monkey.h" "Monkey.cpp" "MenuLoader.h" "MenuLoader.cpp" "Menu.h" "Menu.cpp" "MainMenuSceneLoader.h" "MainMenuSceneLoader.cpp" "MainMenuScene.h" "MainMenuScene.cpp" "LevelLoader.h" "LevelLoader.cpp" "Level.h" "Level.cpp" "KangarooLoader.h" "KangarooLoader.cpp" "Kangaroo.h" "Kangaroo.cpp" "HelloWorldScene.h" "HelloWorldScene.cpp" "GameSceneLoader.h" "GameSceneLoader.cpp" "GameScene.h" "GameScene.cpp" "GameObject.h" "GameObject.cpp" "DinosaurLoader.h" "DinosaurLoader.cpp" "Dinosaur.h" "Dinosaur.cpp" "BearLoader.h" "BearLoader.cpp" "Bear.h" "Bear.cpp" "AppDelegate.h" "AppDelegate.cpp" ".#LevelLoader.h" "#LevelLoader.h#" "../" "./")
+
+ ("/Users/jishankai/Projects/Miwu/Miwu/" (20905 58335) "Resources/" "Prefix.pch" "libs/" "ios/" "Classes/" ".DS_Store" "../" "./")
+
+ ("/Users/jishankai/Projects/Miwu/" (20905 57580) "Miwu.xcodeproj/" "Miwu/" ".git/" "../" "./")
+
+ ("/Users/jishankai/Projects/" (20905 57564) "Miwu/" "Miao/" "LuaHost/" "../" "./")
+
+ ("/Users/jishankai/" (20911 27187) "Sites/" "Public/" "Projects/" "Pictures/" "Music/" "Movies/" "Library/" "Git/" "Downloads/" "Documents/" "Desktop/" "BTSync/" "Applications/" ".vimrc" ".viminfo" ".vim-fuf-data/" ".vim/" ".Trash/" ".subversion/" ".ssh/" ".recentf" ".lesshst" ".gitconfig" ".emacs.d/" ".emacs" ".DS_Store" ".dir_colors" ".config/" ".cache/" ".bash_profile~" ".bash_profile" ".bash_history" ".adobe/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

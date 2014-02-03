@@ -1,0 +1,10 @@
+((("pressedLeft" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("pressedRat" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("pressedTortoise" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pressedPenguin" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pressedKangaroo" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))

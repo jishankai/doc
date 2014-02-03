@@ -1,0 +1,23 @@
+
+;; ----- smex-history -----
+(
+ grep
+ query-replace
+ read-color
+ list-packages
+ package-install
+ cd
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 2)
+ (list-packages . 1)
+ (read-color . 3)
+ (color-theme-matrix . 1)
+ (ecb-activate . 2)
+ (query-replace . 12)
+ (grep . 1)
+ (ecb-minor-menu . 1)
+)
