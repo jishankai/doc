@@ -1,0 +1,29 @@
+
+;; ----- smex-history -----
+(
+ ecb-deactivate
+ ecb-activate
+ e2wm:stop-management
+ zone
+ e2wm:start-management
+ shell
+ package-list-packages
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 3)
+ (edbi:open-db-viewer . 4)
+ (shell . 4)
+ (eval-current-buffer . 6)
+ (package-refresh-contents . 2)
+ (e2wm:dp-edbi . 4)
+ (e2wm:stop-management . 4)
+ (ac-etags-setup . 1)
+ (zone . 9)
+ (zone-mode . 1)
+ (zone-leave-me-alone . 1)
+ (e2wm:start-management . 2)
+ (ecb-activate . 1)
+ (ecb-deactivate . 1)
+)
